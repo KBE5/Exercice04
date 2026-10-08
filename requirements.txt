@@ -1,0 +1,18 @@
+# Backend API
+fastapi
+uvicorn[standard]
+python-dotenv
+bcrypt
+PyJWT
+sqlalchemy
+psycopg[binary]
+
+# Frontend Streamlit
+streamlit
+requests
+
+# Tests d'intégration et E2E
+pytest
+httpx
+playwright
+pytest-playwright
